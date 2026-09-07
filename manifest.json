@@ -3,10 +3,10 @@
   "packs": [
     {
       "packId": "ru-base",
-      "version": 2,
-      "url": "https://alagerty.github.io/bukvuk-packs/packs/ru-base-2.zip",
+      "version": 3,
+      "url": "https://alagerty.github.io/bukvuk-packs/packs/ru-base-3.zip",
       "bytes": 5057160,
-      "sha256": "48a18dfc8f38c60222d0c0d7e6ff70f2aa7be868d1814d57232a6566255d6ede",
+      "sha256": "00bfea81ea3e315419ef2047e5dee17c2dc239329646e3341d5eadb7c95e60db",
       "minAppVersion": "1.0.0"
     }
   ]
