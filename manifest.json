@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packs": [
+    {
+      "packId": "ru-base",
+      "version": 1,
+      "url": "https://alagerty.github.io/bukvuk-packs/packs/ru-base-1.zip",
+      "bytes": 5057158,
+      "sha256": "3a0a769178a0e6e695a71396b7b35ade8646cb2dcd5dcb659b8aa52831f9d141",
+      "minAppVersion": "1.0.0"
+    }
+  ]
+}
